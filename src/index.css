@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body { @apply bg-gray-50 text-gray-800; }
+.fade-enter { opacity: 0; transform: translateY(6px); }
+.fade-enter-active { opacity: 1; transform: translateY(0); transition: all 200ms ease; }
