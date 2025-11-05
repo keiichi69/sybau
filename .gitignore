@@ -1,0 +1,7 @@
+# React .gitignore template
+node_modules
+#build
+.cache
+.DS_Store
+.env
+
