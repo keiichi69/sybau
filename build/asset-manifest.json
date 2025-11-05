@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1da18e7.css",
-    "main.js": "/static/js/main.d314f72f.js",
-    "index.html": "/index.html",
-    "main.d1da18e7.css.map": "/static/css/main.d1da18e7.css.map",
-    "main.d314f72f.js.map": "/static/js/main.d314f72f.js.map"
+    "main.css": "/sybau/static/css/main.d1da18e7.css",
+    "main.js": "/sybau/static/js/main.d314f72f.js",
+    "index.html": "/sybau/index.html",
+    "main.d1da18e7.css.map": "/sybau/static/css/main.d1da18e7.css.map",
+    "main.d314f72f.js.map": "/sybau/static/js/main.d314f72f.js.map"
   },
   "entrypoints": [
     "static/css/main.d1da18e7.css",
